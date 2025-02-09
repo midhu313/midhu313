@@ -8,5 +8,5 @@
 
 I'm [Midhulaj] (https://github.com/midhu313), A passionate embedded system and robotics engineer with specialization in C, C++, C#, python, Java, SQL/MySQL/Redis with a passion for learning with an endless supply of optimism & curiosity.<br/>
 
-💼 Do reach [email](mailto:mail2midhulaj@gmail.com): mail2midhulaj@gmail.com <br/>
+💼 Do reach [me](mailto:mail2midhulaj@gmail.com): mail2midhulaj@gmail.com <br/>
 💬 Ask me about anything, i would love to help 😄 <br/>
